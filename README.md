@@ -31,7 +31,7 @@
 
 ---
 
-## 🚀 Key Features
+## 🔑️ Key Features
 
 * **Tactical Neon HUD Interface:** Dark-mode cyber-styled aesthetic complete with grid layouts, glowing highlights, and monospaced tech accents.
 * **Right-Click Context Menu:** Instantly summon a custom tactical context menu by right-clicking any emoji to copy either:
