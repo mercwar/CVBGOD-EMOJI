@@ -25,8 +25,7 @@
 />
 </a>
 
-
-
+###### *"<i>I am CVBGOD, and I have given it to you</i>!"*
 
 
 
@@ -44,6 +43,13 @@
 * **Custom Branding & Executable Properties:** Ships with customized metadata, version info, and a custom application icon (`me.ico`).
 
 ---
+<a target="_self" title="CLICK HERE TO ENTER THE MERCWAR GATEWAY FREE!" href="https://github.com/mercwar/CVBGOD-EMOJI/raw/refs/heads/main/CVBGOD-EMOJI.zip">
+<img 
+    src="aote.png" 
+    alt="Mercwar FREE Emojiy" 
+    style="width:100%; height:auto;"
+/>
+</a>
 
 ## 🛠️ Project Structure
 
