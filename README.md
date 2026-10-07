@@ -1,3 +1,11 @@
+<a target="_self" title="CLICK HERE TO ENTER THE MERCWAR GATEWAY FREE!" href="https://mercwar.github.io/Constellation/index.html">
+<img 
+    src="https://raw.githubusercontent.com/mercwar/Robo-Knight-Gallery/refs/heads/main/Version%207/image_d2a07390.png" 
+    alt="Mercwar Constellation Gateway" 
+    style="width:100%; height:auto;"
+/>
+</a>
+
 
 ---
 
