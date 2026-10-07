@@ -40,7 +40,7 @@
 * **System Tray Integration:** Runs quietly in the background. Closing the main application window minimizes it directly to the system tray, with quick-access controls to **Show Window** or **Exit**.
 * **Smart Filtering:** Toggle between viewing all code points or filtering strictly for known active emojis.
 * **Auto-Navigation:** Automatically jumps straight to the first active page of emojis upon program launch.
-* **Custom Branding & Executable Properties:** Ships with customized metadata, version info, and a custom application icon (`me.ico`).
+* **Custom Branding & Executable Properties:** Ships with customized metadata, version info, and a custom application icon (`favicon.ico`).
 
 ---
 <a target="_self" title="CLICK HERE TO ENTER THE MERCWAR GATEWAY FREE!" href="https://github.com/mercwar/CVBGOD-EMOJI/raw/refs/heads/main/CVBGOD-EMOJI.zip">
