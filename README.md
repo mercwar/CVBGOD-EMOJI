@@ -58,7 +58,7 @@
 * `emoji_core.c` — Unicode generation logic, pagination routines, and HTML page builder.
 * `version.rc` — Application resource file embedding version information, copyright details, and `me.ico`.
 * `favicon.ico` — Custom application icon asset.
-* `build.bat` — Automated MSVC compilation script.
+* `build_emoji.bat` — Automated MSVC compilation script.
 
 ---
 
