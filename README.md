@@ -69,6 +69,7 @@
     style="width:100%; height:auto;"
 />
 </a>
+
 ## 🛠️ Project Structure
 
 * `main.c` — Win32 application window loop, toolbar controls, system tray management, and event routing.
