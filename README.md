@@ -6,15 +6,13 @@
 />
 </a>
 
-#
-
-🌈 # CVBGOD-EMOJI  
+## 🌈 CVBGOD-EMOJI
 
 #### 🗺️ This program runs in your Win64 tray and lets you copy emoji from a list
 
  - ###### 😲️ A list of Over 3,000 to choose from!
  - ###### ✔️ Browse with or with out the UNICODE filter
- - ###### 🪽️ CVBGOD-EMOJI** is a high-performance, tactical Sci-Fi / MechWarrior-themed Windows desktop utility.
+ - ###### 🪽️ **CVBGOD-EMOJI** is a high-performance, tactical Sci-Fi / MechWarrior-themed Windows desktop utility.
  - ###### 🪟️ Designed for lightning-fast emoji browsing, filtering, and clipboard deployment.
  - ###### 🗽️ Built natively in C using the Win32 API and an embedded high-compatibility browser  control.
  - ###### 🚅️ Provides a sleek futuristic HUD for managing Unicode symbols and their hex codes.
