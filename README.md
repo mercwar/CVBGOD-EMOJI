@@ -6,15 +6,29 @@
 />
 </a>
 
+#
 
----
+🌈 # CVBGOD-EMOJI
+
+#### 🗺️ This program runs in your Win64 tray and lets you copy emoji from a list
+
+ - ###### 🪽️ CVBGOD-EMOJI** is a high-performance, tactical Sci-Fi / MechWarrior-themed Windows desktop utility.
+ - ###### 🪟️ Designed for lightning-fast emoji browsing, filtering, and clipboard deployment.
+ - ###### 🗽️ Built natively in C using the Win32 API and an embedded high-compatibility browser  control.
+ - ###### 🚅️ Provides a sleek futuristic HUD for managing Unicode symbols and their hex codes.
+
+<a target="_self" title="CLICK HERE TO ENTER THE MERCWAR GATEWAY FREE!" href="https://github.com/mercwar/CVBGOD-EMOJI/raw/refs/heads/main/CVBGOD-EMOJI.zip">
+<img 
+    src="ChatGPT%20Image%20Oct%207%2C%202026%2C%2005_43_10%20PM.png" 
+    alt="Mercwar FREE Emojiy" 
+    style="width:100%; height:auto;"
+/>
+</a>
 
 
 
 
-# CVBGOD-EMOJI (AVIS Neon Emoji Pager)
 
-**CVBGOD-EMOJI** is a high-performance, tactical Sci-Fi / MechWarrior-themed Windows desktop utility designed for lightning-fast emoji browsing, filtering, and clipboard deployment. Built natively in C using the Win32 API and an embedded high-compatibility browser control, it provides a sleek futuristic HUD for managing Unicode symbols and their hex codes.
 
 ---
 
