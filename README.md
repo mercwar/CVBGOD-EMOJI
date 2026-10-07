@@ -17,19 +17,19 @@
  - ###### 🗽️ Built natively in C using the Win32 API and an embedded high-compatibility browser  control.
  - ###### 🚅️ Provides a sleek futuristic HUD for managing Unicode symbols and their hex codes.
 
+
+###### Ever see an emoji like this ☃️ or this 🏹️ or this 💱️
+
+## 🫶️ HOW ABOUT THIS!
 <a target="_self" title="CLICK HERE TO ENTER THE MERCWAR GATEWAY FREE!" href="https://github.com/mercwar/CVBGOD-EMOJI/raw/refs/heads/main/CVBGOD-EMOJI.zip">
 <img 
-    src="ChatGPT%20Image%20Oct%207%2C%202026%2C%2005_43_10%20PM.png" 
+    src="joetron.png" 
     alt="Mercwar FREE Emojiy" 
     style="width:100%; height:auto;"
 />
 </a>
 
 ###### 🤘️ *"<i>I am CVBGOD, and I have given it to you</i>!"*
-
-
-
----
 
 ## 🔑️ Key Features
 
@@ -42,7 +42,26 @@
 * **Auto-Navigation:** Automatically jumps straight to the first active page of emojis upon program launch.
 * **Custom Branding & Executable Properties:** Ships with customized metadata, version info, and a custom application icon (`favicon.ico`).
 
+
+<a target="_self" title="CLICK HERE TO ENTER THE MERCWAR GATEWAY FREE!" href="https://github.com/mercwar/CVBGOD-EMOJI/raw/refs/heads/main/CVBGOD-EMOJI.zip">
+<img 
+    src="ChatGPT%20Image%20Oct%207%2C%202026%2C%2005_43_10%20PM.png" 
+    alt="Mercwar FREE Emojiy" 
+    style="width:100%; height:auto;"
+/>
+</a>
+
+
+## 🕹️ Usage
+
+1. Launch **`CVBGOD-EMOJI.exe`**.
+2. Use the **`< Prev Emoji`** and **`Next Emoji >`** buttons to navigate through sectors.
+3. Check or uncheck **`Emoji Only`** to filter out blank or unassigned blocks.
+4. **Right-click** any emoji tile to copy its data straight to your clipboard for instant deployment.
+5. Close the window anytime to drop it into the system tray. Right-click the tray icon to restore or terminate the program.
+
 ---
+
 <a target="_self" title="CLICK HERE TO ENTER THE MERCWAR GATEWAY FREE!" href="https://github.com/mercwar/CVBGOD-EMOJI/raw/refs/heads/main/CVBGOD-EMOJI.zip">
 <img 
     src="aote.png" 
@@ -50,7 +69,6 @@
     style="width:100%; height:auto;"
 />
 </a>
-
 ## 🛠️ Project Structure
 
 * `main.c` — Win32 application window loop, toolbar controls, system tray management, and event routing.
@@ -86,15 +104,7 @@ The script will automatically compile the resource file (`rc`), compile the C so
 
 ---
 
-## 🕹️ Usage
 
-1. Launch **`CVBGOD-EMOJI.exe`**.
-2. Use the **`< Prev Emoji`** and **`Next Emoji >`** buttons to navigate through sectors.
-3. Check or uncheck **`Emoji Only`** to filter out blank or unassigned blocks.
-4. **Right-click** any emoji tile to copy its data straight to your clipboard for instant deployment.
-5. Close the window anytime to drop it into the system tray. Right-click the tray icon to restore or terminate the program.
-
----
 
 ## 📜 License
 
