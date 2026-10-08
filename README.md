@@ -31,6 +31,8 @@
 
 ###### 🤘️ *"<i>I am CVBGOD, and I have given it to you</i>!"*
 
+###### 🏭️ The Required Free MSVC Compiler can be downloaded from Microsoft [here](https://aka.ms/vs/17/release/vs_BuildTools.exe)
+  
 ## 🔑️ Key Features
 
 * **Tactical Neon HUD Interface:** Dark-mode cyber-styled aesthetic complete with grid layouts, glowing highlights, and monospaced tech accents.
