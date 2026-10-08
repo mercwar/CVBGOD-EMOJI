@@ -1,5 +1,7 @@
-// Filename: emoji_core.h / core logic updates in emoji_core.c
+// Filename: emoji_core.c
+
 #include "emoji_core.h"
+#include "emoji_root.h"
 #include <windows.h>
 #include <stdio.h>
 #include <stdlib.h>
@@ -151,12 +153,11 @@ static void html_escape(const WCHAR* src, WCHAR* dst, size_t dst_len)
 
 void generate_page_html(int page_num, int filter_emoji_only, const WCHAR* status_msg)
 {
+    WCHAR html_path[MAX_PATH];
+    get_app_path(L"page.html", html_path, MAX_PATH);
+
     FILE* f = NULL;
-     
-    if (_wfopen_s(&f, L"page.html", L"w, ccs=UTF-8"))
-        return;
-     
-    if (!f)
+    if (_wfopen_s(&f, html_path, L"w, ccs=UTF-8") != 0 || !f)
         return;
      
     fwprintf(f, L"<!DOCTYPE html>\n<html>\n<head>\n");
@@ -176,7 +177,7 @@ void generate_page_html(int page_num, int filter_emoji_only, const WCHAR* status
                 L"font-family: 'Segoe UI Emoji', sans-serif; font-size: 26px; background: #111824; border: 1px solid #1e2c44; "
                 L"border-radius: 4px; cursor: pointer; transition: all 0.2s ease; }\n");
     fwprintf(f, L".emoji-grid span:hover { background: #1a2a44; border-color: #00f0ff; box-shadow: 0 0 12px rgba(0, 240, 255, 0.6); transform: scale(1.1); }\n");
-    
+     
     // Context Menu Styling
     fwprintf(f, L"#ctx-menu { display: none; position: absolute; z-index: 1000; background: #0c121e; border: 1px solid #00f0ff; "
                 L"box-shadow: 0 0 15px rgba(0, 240, 255, 0.4); border-radius: 4px; padding: 6px 0; min-width: 160px; font-size: 13px; }\n");
