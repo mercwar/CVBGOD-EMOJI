@@ -78,7 +78,7 @@ static void AddTrayIcon(HWND hwnd) {
     nid.uFlags = NIF_ICON | NIF_MESSAGE | NIF_TIP;
     nid.uCallbackMessage = WM_TRAYICON;
     nid.hIcon = g_hAppIcon;
-    wcscpy_s(nid.szTip, ARRAYSIZE(nid.szTip), L"Robo Rook's All of THEE Emoji Clipboard");
+    wcscpy_s(nid.szTip, ARRAYSIZE(nid.szTip), L"Joe Tron's All of THEE Emoji Clipboard");
     Shell_NotifyIconW(NIM_ADD, &nid);
 }
 
@@ -227,7 +227,7 @@ int WINAPI WinMain(HINSTANCE hInst, HINSTANCE hPrev, LPSTR lpCmd, int nShow) {
     wc.hCursor = LoadCursor(NULL, IDC_ARROW);
     RegisterClassW(&wc);
 
-    HWND hwnd = CreateWindowW(wc.lpszClassName, L"Robo Rook's All of THEE Emoji", WS_OVERLAPPEDWINDOW, CW_USEDEFAULT, CW_USEDEFAULT, 1280, 900, NULL, NULL, hInst, NULL);
+    HWND hwnd = CreateWindowW(wc.lpszClassName, L"Joe Tron's All of THEE Emoji", WS_OVERLAPPEDWINDOW, CW_USEDEFAULT, CW_USEDEFAULT, 1280, 900, NULL, NULL, hInst, NULL);
     ShowWindow(hwnd, nShow);
     UpdateWindow(hwnd);
     
