@@ -1,58 +1,37 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://github.com/mercwar/CVBGOD-EMOJI/blob/main/main.c</loc>
+    <loc>https://github.com/mercwar/CVBGOD-EMOJI/blob/main/index.html</loc>
   </url>
   <url>
-    <loc>https://github.com/mercwar/CVBGOD-EMOJI/blob/main/emoji_core.obj</loc>
-  </url>
-  <url>
-    <loc>https://github.com/mercwar/CVBGOD-EMOJI/blob/main/emoji_root.h</loc>
-  </url>
-  <url>
-    <loc>https://github.com/mercwar/CVBGOD-EMOJI/blob/main/LICENSE</loc>
-  </url>
-  <url>
-    <loc>https://github.com/mercwar/CVBGOD-EMOJI/blob/main/_config.yml</loc>
-  </url>
-  <url>
-    <loc>https://github.com/mercwar/CVBGOD-EMOJI/blob/main/emoji_core.c</loc>
-  </url>
-  <url>
-    <loc>https://github.com/mercwar/CVBGOD-EMOJI/blob/main/joetron.png</loc>
+    <loc>https://github.com/mercwar/CVBGOD-EMOJI/blob/main/CVBGOD-EMOJI.exe</loc>
   </url>
   <url>
     <loc>https://github.com/mercwar/CVBGOD-EMOJI/blob/main/browser_host.c</loc>
   </url>
   <url>
-    <loc>https://github.com/mercwar/CVBGOD-EMOJI/blob/main/eclipse.php</loc>
-  </url>
-  <url>
-    <loc>https://github.com/mercwar/CVBGOD-EMOJI/blob/main/index.html</loc>
-  </url>
-  <url>
-    <loc>https://github.com/mercwar/CVBGOD-EMOJI/blob/main/sitemap.xml</loc>
-  </url>
-  <url>
     <loc>https://github.com/mercwar/CVBGOD-EMOJI/blob/main/ChatGPT%20Image%20Oct%207,%202026,%2005_43_10%20PM.png</loc>
   </url>
   <url>
-    <loc>https://github.com/mercwar/CVBGOD-EMOJI/blob/main/main.obj</loc>
+    <loc>https://github.com/mercwar/CVBGOD-EMOJI/blob/main/_config.yml</loc>
   </url>
   <url>
-    <loc>https://github.com/mercwar/CVBGOD-EMOJI/blob/main/browser_host.obj</loc>
+    <loc>https://github.com/mercwar/CVBGOD-EMOJI/blob/main/favicon.ico</loc>
   </url>
   <url>
-    <loc>https://github.com/mercwar/CVBGOD-EMOJI/blob/main/page.html</loc>
+    <loc>https://github.com/mercwar/CVBGOD-EMOJI/blob/main/emoji_core.c</loc>
+  </url>
+  <url>
+    <loc>https://github.com/mercwar/CVBGOD-EMOJI/blob/main/build_emoji.bat</loc>
   </url>
   <url>
     <loc>https://github.com/mercwar/CVBGOD-EMOJI/blob/main/README.md</loc>
   </url>
   <url>
-    <loc>https://github.com/mercwar/CVBGOD-EMOJI/blob/main/emoji_core.h</loc>
+    <loc>https://github.com/mercwar/CVBGOD-EMOJI/blob/main/LICENSE</loc>
   </url>
   <url>
-    <loc>https://github.com/mercwar/CVBGOD-EMOJI/blob/main/fire-site.sh</loc>
+    <loc>https://github.com/mercwar/CVBGOD-EMOJI/blob/main/joetron.png</loc>
   </url>
   <url>
     <loc>https://github.com/mercwar/CVBGOD-EMOJI/blob/main/version.res</loc>
@@ -61,24 +40,45 @@
     <loc>https://github.com/mercwar/CVBGOD-EMOJI/blob/main/version.rc</loc>
   </url>
   <url>
-    <loc>https://github.com/mercwar/CVBGOD-EMOJI/blob/main/favicon.ico</loc>
+    <loc>https://github.com/mercwar/CVBGOD-EMOJI/blob/main/emoji_core.obj</loc>
   </url>
   <url>
-    <loc>https://github.com/mercwar/CVBGOD-EMOJI/blob/main/.github/workflows/fire-site.yml</loc>
+    <loc>https://github.com/mercwar/CVBGOD-EMOJI/blob/main/main.obj</loc>
   </url>
   <url>
-    <loc>https://github.com/mercwar/CVBGOD-EMOJI/blob/main/aote.png</loc>
+    <loc>https://github.com/mercwar/CVBGOD-EMOJI/blob/main/emoji_root.h</loc>
+  </url>
+  <url>
+    <loc>https://github.com/mercwar/CVBGOD-EMOJI/blob/main/google77a4b19e8f99751c.html</loc>
+  </url>
+  <url>
+    <loc>https://github.com/mercwar/CVBGOD-EMOJI/blob/main/sitemap.xml</loc>
   </url>
   <url>
     <loc>https://github.com/mercwar/CVBGOD-EMOJI/blob/main/CVBGOD-EMOJI.zip</loc>
   </url>
   <url>
-    <loc>https://github.com/mercwar/CVBGOD-EMOJI/blob/main/CVBGOD-EMOJI.exe</loc>
+    <loc>https://github.com/mercwar/CVBGOD-EMOJI/blob/main/fire-site.sh</loc>
   </url>
   <url>
-    <loc>https://github.com/mercwar/CVBGOD-EMOJI/blob/main/build_emoji.bat</loc>
+    <loc>https://github.com/mercwar/CVBGOD-EMOJI/blob/main/browser_host.obj</loc>
   </url>
   <url>
-    <loc>https://github.com/mercwar/CVBGOD-EMOJI/blob/main/google77a4b19e8f99751c.html</loc>
+    <loc>https://github.com/mercwar/CVBGOD-EMOJI/blob/main/aote.png</loc>
+  </url>
+  <url>
+    <loc>https://github.com/mercwar/CVBGOD-EMOJI/blob/main/page.html</loc>
+  </url>
+  <url>
+    <loc>https://github.com/mercwar/CVBGOD-EMOJI/blob/main/emoji_core.h</loc>
+  </url>
+  <url>
+    <loc>https://github.com/mercwar/CVBGOD-EMOJI/blob/main/main.c</loc>
+  </url>
+  <url>
+    <loc>https://github.com/mercwar/CVBGOD-EMOJI/blob/main/.github/workflows/fire-site.yml</loc>
+  </url>
+  <url>
+    <loc>https://github.com/mercwar/CVBGOD-EMOJI/blob/main/eclipse.php</loc>
   </url>
 </urlset>
